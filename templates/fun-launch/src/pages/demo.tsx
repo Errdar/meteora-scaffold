@@ -90,7 +90,7 @@ export default function DemoPage() {
             Start creating your own token pools with customizable bonding curves
           </p>
           <Link href="/create-pool">
-            <Button size="lg" className="text-lg px-8 py-4">
+            <Button className="text-lg px-8 py-4">
               Get Started
             </Button>
           </Link>
