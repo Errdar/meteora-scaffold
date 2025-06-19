@@ -21,7 +21,7 @@ export default function Index() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center pt-6">
             <Link href="/create-pool">
-              <Button size="lg" className="w-full sm:w-auto text-lg px-8 py-4">
+              <Button className="w-full sm:w-auto text-lg px-8 py-4">
                 <span className="iconify ph--rocket-bold w-5 h-5 mr-2" />
                 Launch Token
               </Button>
