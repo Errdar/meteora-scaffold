@@ -27,7 +27,7 @@ export default function Index() {
               </Button>
             </Link>
             <Link href="/demo">
-              <Button size="lg" className="w-full sm:w-auto bg-white/10 hover:bg-white/20 text-lg px-8 py-4">
+              <Button className="w-full sm:w-auto bg-white/10 hover:bg-white/20 text-lg px-8 py-4">
                 <span className="iconify ph--play-bold w-5 h-5 mr-2" />
                 View Demo
               </Button>
